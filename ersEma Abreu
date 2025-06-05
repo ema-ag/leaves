@@ -1,0 +1,29 @@
+[33mcommit f7042e8ab4bf980d29b6f2224c23b2afdbe3a299[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Ema Abreu <ema.abreu@upr.edu>
+Date:   Thu Jun 5 14:37:55 2025 -0400
+
+    tried to delete file 1 dont know if it worked
+
+[33mcommit 80f493e3631e562eea1aaa9c6f88128f74f25b68[m
+Author: Ema Abreu <ema.abreu@upr.edu>
+Date:   Thu Jun 5 14:32:59 2025 -0400
+
+    add some test files to the working directory
+
+[33mcommit a811eecdb600679d3c6f4f7a568d3cb59678619a[m
+Author: Ema Abreu <ema.abreu@upr.edu>
+Date:   Thu Jun 5 14:24:11 2025 -0400
+
+    edit the tree.txt file for test work
+
+[33mcommit 3a985548ec7fdb36d4d1a8c95fa85e882faffd9c[m
+Author: Ema Abreu <ema.abreu@upr.edu>
+Date:   Thu Jun 5 14:12:14 2025 -0400
+
+    Modify the leaves.md filebecause git is hard to learn
+
+[33mcommit b2c59aa4098f8ddf226beac8ffbf76793fe373ec[m
+Author: Ema Abreu <ema.abreu@upr.edu>
+Date:   Thu Jun 5 14:07:56 2025 -0400
+
+    Create initial structure for vines repository
